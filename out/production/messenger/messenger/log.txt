@@ -1,0 +1,16 @@
+john: is joined
+sarah: is joined
+sarah:Hi
+sarah:
+john:Hi
+john:
+sarah:How are you?
+sarah:
+john:I am fine thanks
+
+john: is joined
+sarah: is joined
+sarah:Hi
+sarah:
+john:Hi
+john:
